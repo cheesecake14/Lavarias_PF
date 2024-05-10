@@ -33,6 +33,7 @@ Contributions to improve the website are welcome! If you have any suggestions, f
 
 ## License
 
+This project is licensed under the [MIT License](LICENSE).
+
 ## to Access the live site click here
 http://127.0.0.1:5500/index.html#
-This project is licensed under the [MIT License](LICENSE).
